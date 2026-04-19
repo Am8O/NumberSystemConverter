@@ -19,7 +19,7 @@ Follow these steps to get the program running on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Am8o/NumberSystemConverter.git]
+    git clone https://github.com/Am8o/NumberSystemConverter.git
     cd NumberSystemConverter
     ```
 
